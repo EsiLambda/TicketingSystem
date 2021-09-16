@@ -1,0 +1,37 @@
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem - Copy (3)\BL\bin\Debug\BL.dll
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem - Copy (3)\BL\bin\Debug\BL.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem - Copy (3)\BL\bin\Debug\DA.dll
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem - Copy (3)\BL\bin\Debug\DA.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem - Copy (3)\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem - Copy (3)\BL\obj\Debug\BL.dll
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem - Copy (3)\BL\obj\Debug\BL.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem_MultiLayer_EF\BL\bin\Debug\BL.dll
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem_MultiLayer_EF\BL\bin\Debug\BL.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem_MultiLayer_EF\BL\bin\Debug\DA.dll
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem_MultiLayer_EF\BL\bin\Debug\EntityFramework.dll
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem_MultiLayer_EF\BL\bin\Debug\DA.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem_MultiLayer_EF\BL\bin\Debug\DA.dll.config
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem_MultiLayer_EF\BL\bin\Debug\EntityFramework.xml
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem_MultiLayer_EF\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem_MultiLayer_EF\BL\obj\Debug\BL.dll
+C:\Users\Ehsan\Documents\Visual Studio 2017\Projects\TicketingSystem_MultiLayer_EF\BL\obj\Debug\BL.pdb
+C:\Users\Ehsan\Desktop\Ehsan\Uni\Term Summer\Project\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\BL.dll
+C:\Users\Ehsan\Desktop\Ehsan\Uni\Term Summer\Project\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\BL.pdb
+C:\Users\Ehsan\Desktop\Ehsan\Uni\Term Summer\Project\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\DA.dll
+C:\Users\Ehsan\Desktop\Ehsan\Uni\Term Summer\Project\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\EntityFramework.dll
+C:\Users\Ehsan\Desktop\Ehsan\Uni\Term Summer\Project\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\DA.pdb
+C:\Users\Ehsan\Desktop\Ehsan\Uni\Term Summer\Project\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\DA.dll.config
+C:\Users\Ehsan\Desktop\Ehsan\Uni\Term Summer\Project\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\EntityFramework.xml
+C:\Users\Ehsan\Desktop\Ehsan\Uni\Term Summer\Project\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan\Desktop\Ehsan\Uni\Term Summer\Project\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\obj\Debug\BL.dll
+C:\Users\Ehsan\Desktop\Ehsan\Uni\Term Summer\Project\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\obj\Debug\BL.pdb
+C:\Users\Ehsan Ghaffari Sadr\Desktop\aaa\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\BL.dll
+C:\Users\Ehsan Ghaffari Sadr\Desktop\aaa\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\BL.pdb
+C:\Users\Ehsan Ghaffari Sadr\Desktop\aaa\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\DA.dll
+C:\Users\Ehsan Ghaffari Sadr\Desktop\aaa\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\EntityFramework.dll
+C:\Users\Ehsan Ghaffari Sadr\Desktop\aaa\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\DA.pdb
+C:\Users\Ehsan Ghaffari Sadr\Desktop\aaa\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\DA.dll.config
+C:\Users\Ehsan Ghaffari Sadr\Desktop\aaa\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\bin\Debug\EntityFramework.xml
+C:\Users\Ehsan Ghaffari Sadr\Desktop\aaa\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan Ghaffari Sadr\Desktop\aaa\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\obj\Debug\BL.dll
+C:\Users\Ehsan Ghaffari Sadr\Desktop\aaa\TicketingSystem_MultiLayer_EF Table Improvement 1\BL\obj\Debug\BL.pdb
