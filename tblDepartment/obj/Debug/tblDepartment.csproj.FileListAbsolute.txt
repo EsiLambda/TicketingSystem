@@ -1,0 +1,9 @@
+c:\users\ehsan\documents\visual studio 2017\Projects\TicketingSystem\tblDepartment\bin\Debug\tblDepartment.exe.config
+c:\users\ehsan\documents\visual studio 2017\Projects\TicketingSystem\tblDepartment\bin\Debug\tblDepartment.exe
+c:\users\ehsan\documents\visual studio 2017\Projects\TicketingSystem\tblDepartment\bin\Debug\tblDepartment.pdb
+c:\users\ehsan\documents\visual studio 2017\Projects\TicketingSystem\tblDepartment\obj\Debug\tblDepartment.csprojResolveAssemblyReference.cache
+c:\users\ehsan\documents\visual studio 2017\Projects\TicketingSystem\tblDepartment\obj\Debug\tblDepartment.frmDepartment.resources
+c:\users\ehsan\documents\visual studio 2017\Projects\TicketingSystem\tblDepartment\obj\Debug\tblDepartment.Properties.Resources.resources
+c:\users\ehsan\documents\visual studio 2017\Projects\TicketingSystem\tblDepartment\obj\Debug\tblDepartment.csproj.GenerateResource.Cache
+c:\users\ehsan\documents\visual studio 2017\Projects\TicketingSystem\tblDepartment\obj\Debug\tblDepartment.exe
+c:\users\ehsan\documents\visual studio 2017\Projects\TicketingSystem\tblDepartment\obj\Debug\tblDepartment.pdb
